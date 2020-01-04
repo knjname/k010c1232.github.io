@@ -25,22 +25,26 @@ titles:
   # @end locale config
 key: page-about
 ---
-# Who?
+# Profile
+
+## Who is Me
 
 My name is Win Myint Oo and I'm from Myanmar. Now, I'm working as Application Engineer at JSOL Corporation in Japan. I've been living in Japan since 2008 and had been over 10 years.
 
-# Work
+## Work
 
 My work is system construction on the Salesforce platform for the fields of E-Commerce, Finance. My main job is requirement defination, detailed design, inner design, implementation, testing, operation and etc.
 
-# Skill
+## Skill
 
-## Language
+### Language
+
 * Burmese (Native level)
 * Japanese JLPT level 1(equalivent to N1)
 * English(TOEIC 605 points)
 
-## Salesforce Certificates
+### Salesforce Certificates
+
 * System Architect
 * Applicatin Architect
 * Sales Cloud Consultant
