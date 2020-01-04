@@ -25,9 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-# Profile
-
-## Who is Me
 
 My name is Win Myint Oo and I'm from Myanmar. Now, I'm working as Application Engineer at JSOL Corporation in Japan. I've been living in Japan since 2008 and had been over 10 years.
 
