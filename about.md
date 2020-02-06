@@ -43,11 +43,11 @@ My work is system construction on the Salesforce platform for the fields of E-Co
 ### Salesforce Certificates
 
 * System Architect
-* Applicatin Architect
+* Application Architect
 * Sales Cloud Consultant
 * Service Cloud Consultant
 * Community Cloud Consultant
-* Platform Applicatin Builder
+* Platform Application Builder
 * Platform Developer
 * Advanced Administrator
 * Administrator
